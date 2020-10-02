@@ -9,7 +9,7 @@ def mainmenu():
     return """
     <html>
     <body>
-    <center><h1>10-02-12:21</h1><br/>
+    <center><h1>Hello,world</h1><br/>
     </body>
     </html>"""
 
